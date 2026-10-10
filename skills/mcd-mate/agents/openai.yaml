@@ -1,0 +1,4 @@
+interface:
+  display_name: "麦门寻宝局"
+  short_description: "按预算、心情与场景查询官方麦当劳 MCP，生成可核验餐品组合"
+  default_prompt: "使用 $mcd-mate，根据预算、场景和心情查询麦当劳官方 MCP 并生成三条可核验的推荐路线。"
